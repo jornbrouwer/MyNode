@@ -1,0 +1,23 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+PRINTLINE KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+
+######################################
+# Constants (LITERAL1)
+#######################################
+GATEWAY LITERAL1
+REPEATER LITERAL1
+SENSORNODE LITERAL1
+SN_TYPE_A LITERAL1
+SN_TYPE_B LITERAL1 
+SN_TYPE_C LITERAL1
+SERIAL LITERAL1
+W5100 LITERAL1
+ENC28J60 LITERAL1
+MQTT LITERAL1
